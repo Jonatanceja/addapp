@@ -1,0 +1,35 @@
+title: Portada
+columns:
+  left:
+    width: 1/2
+    sections:
+      picture:
+        type: fields
+        fields:
+          picture_avif:
+            type: files
+            label: Fotografia
+            max: 1
+            layout: cards
+            size: huge
+            image:
+              cover: true
+          picture_jpg:
+            type: files
+            label: Fotografia
+            max: 1
+            layout: cards
+            size: huge
+            image:
+              cover: true
+
+  right:
+    width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          heading: 
+            type: text
+            label: Encabezado
+

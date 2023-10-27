@@ -1,0 +1,44 @@
+Title: Incluye
+
+----
+
+Blurbs:
+
+- 
+  icon:
+    - file://odLE9ushK1wCH8TR
+  hover:
+    - file://OQORGHrtGCzG2bbb
+  heading: Planes Financieros
+  text: |
+    - Integridad en la información.
+    - Responder inmediatamente a las preguntas de la alta dirección.
+    - Mayor compromiso ante los planes de los usuarios.
+    - Comunicación en el presupuesto.
+    - Responder preguntas oportunamente ante la alta Dirección.
+- 
+  icon:
+    - file://Wr8rATktbJkLl6Xf
+  hover:
+    - file://6cVeRCpNw3e8HBd8
+  heading: Forecast Colaborativo
+  text: |
+    - Forecast colaborativos con alta capacidad de reacción.
+    - Asertividad en el Forecast presupuesto.
+    - Alto compromiso de las áreas.
+    - Tiempos cortos y comunicación constante.
+    - Cierres de Forecast mensual.
+- 
+  icon:
+    - file://bb7MdEyPJzfYIWbp
+  hover:
+    - file://TYB05zmODg85pWou
+  heading: Simulación
+  text: |
+    - Inteligencia artificial aplicada a modelos financieros.
+    - Simulación basada en variables
+    - Planeación bottoms-up (participación de usuarios distribuidos) y tops-down (cambios en premisas y objetivos) y comparativos con datos reales​
+
+----
+
+Uuid: adjet4Ff1OsfFnJ4

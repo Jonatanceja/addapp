@@ -1,0 +1,23 @@
+Title: Introducción
+
+----
+
+Heading: La Transformación Digital es impulsada por la IA
+
+----
+
+Text:
+
+## La Transformación Digital es ***impulsada por la IA***
+---
+La transformación digital está cambiando los negocios tal como los conocemos. Los datos son la nueva moneda, y las empresas necesitan analizar continuamente datos de múltiples fuentes en tiempo real. La Inteligencia Artificial (IA) se nutre de datos masivos y impulsa la transformación digital. Gracias a la disponibilidad de recursos informáticos asequibles y escalables en la nube, las aplicaciones empresariales habilitadas para la IA pronto serán la nueva norma.
+
+>¿Estás listo para esta nueva era en la que las personas y las máquinas inteligentes trabajan juntas hacia un objetivo común?
+
+1. Acelere el tiempo de valor con aplicaciones prácticas de inteligencia artificial
+2. Modele los datos que importan con la integración líder de fuentes de datos
+3. Los asistentes de Jedox son fáciles de adoptar admiten casos de uso de alto valor para su negocio: previsión de ingresos, planificación de la demanda, predicciones de abandono de clientes, previsión de flujo de caja "[Utilizamos] el machine learning para generar pronósticos precisos, y supera el pronóstico manual desarrollado por analistas en el 80% de los casos."  Kristin ReinkeVice President and Head of FinanceGoogle
+
+----
+
+Uuid: IyVdWS9yhOfIApa0

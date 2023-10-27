@@ -1,0 +1,75 @@
+Title: Recuadros de información
+
+----
+
+Blurbs:
+
+- 
+  icon:
+    - file://pB7OKYaAUO0QacgA
+  hover:
+    - file://iPWGXSwBgLski1Yd
+  heading: Reparación de Datos
+  text: >
+    Los servicios detectan brechas y valores
+    atípicos en series de tiempo y datos
+    conectados, y recomiendan valores a
+    través de detección de valores
+    atípicos, interpolación y aprendizaje
+    continuo.
+- 
+  icon:
+    - file://cWcjah7Fqe0Pobmw
+  hover:
+    - file://IMjlgSB75nRXTzUc
+  heading: Apoyo en toma de decisiones
+  text: >
+    El servicio de análisis avanzado para
+    datos de series temporales devuelve la
+    mejor predicción como línea base para
+    la planificación y pronóstico. Incluye
+    límites superiores e inferiores, así
+    como un factor de calidad para la
+    predicción utilizando varios algoritmos
+    optimizados como ARIMA, Suavización
+    Exponencial, Holt Winters, Random Walk,
+    etc.
+- 
+  icon:
+    - file://iezl0LTyQtj1pZ49
+  hover:
+    - file://ogVDACQFBNvJ9E4D
+  heading: Pronóstico y Predicción
+  text: >
+    El servicio avanzado de análisis para
+    datos de series temporales devuelve la
+    mejor predicción como línea base para
+    la planificación y el pronóstico.
+    Incluye límites superiores e
+    inferiores, así como un factor de
+    calidad para la predicción utilizando
+    varios algoritmos optimizados como
+    ARIMA, Suavización Exponencial, Holt
+    Winters, Caminata Aleatoria, entre
+    otros.
+- 
+  icon:
+    - file://mUc6uJRDPkAngJOV
+  hover:
+    - file://ep5VLT2SWkI90bY5
+  heading: Planeación dinamica
+  text: >
+    El servicio de análisis avanzado para
+    datos de series temporales devuelve la
+    mejor predicción como línea base para
+    la planificación y pronóstico. Incluye
+    límites superiores e inferiores, así
+    como un factor de calidad para la
+    predicción utilizando varios algoritmos
+    optimizados como ARIMA, Suavización
+    Exponencial, Holt Winters, Random Walk,
+    etc.
+
+----
+
+Uuid: 67dQvbI1a6ueBYgT

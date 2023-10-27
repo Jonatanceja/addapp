@@ -1,0 +1,17 @@
+Title: Portada
+
+----
+
+Picture-avif: - file://DHT0gBogxaenMv1U
+
+----
+
+Picture-jpg: - file://lfSAl7sNfGt0pRcK
+
+----
+
+Heading: Lideres en Planeación y Forecast con Inteligencia Artificial
+
+----
+
+Uuid: WyYIeSYXzvnxxdO1

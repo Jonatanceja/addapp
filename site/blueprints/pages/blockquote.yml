@@ -1,0 +1,9 @@
+title: Frase
+fields:
+  icon:
+    type: files
+    max: 1
+    label: Icono
+  text:
+    type: textarea
+    label: Texto

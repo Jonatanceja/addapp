@@ -1,0 +1,16 @@
+title: Empresas
+fields:
+  companies:
+    type: structure
+    label: Recuadros
+    fields:
+      logo:
+        type: files
+        max: 1
+        label: Icono
+      name:
+        type: text
+        label: Encabezado
+      text:
+        type: textarea
+        label: Texto

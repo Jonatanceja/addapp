@@ -1,0 +1,17 @@
+Title: Planificación
+
+----
+
+Heading: 
+
+----
+
+Text:
+
+##Cómo funciona la Planificación Asistida por IA, ***Capacidades principales***
+---
+El motor de IA de Jedox proporciona respuestas a diversos tipos de preguntas comerciales aplicando sus funciones principales para la planificación predictiva y análisis, así como IA y aprendizaje automático en la Gestión del Rendimiento Empresarial.
+
+----
+
+Uuid: vLCqEMrRN0rrJwN5

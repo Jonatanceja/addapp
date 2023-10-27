@@ -1,0 +1,44 @@
+title: Llamado a la acción
+fields:
+  text:
+    type: textarea
+    label: Texto
+  button:
+    type: text
+    label: 
+  picture_avif:
+    type: files
+    label: Fotografia comprimida
+    max: 1
+    width: 1/2
+    layout: cards
+    size: huge
+    image:
+      cover: true
+  picture_jpg:
+    type: files
+    label: Fotografia regular
+    max: 1
+    width: 1/2
+    layout: cards
+    size: huge
+    image:
+      cover: true
+  background_avif:
+    type: files
+    label: Fondo comprimida
+    max: 1
+    width: 1/2
+    layout: cards
+    size: huge
+    image:
+      cover: true
+  background_jpg:
+    type: files
+    label: Fondo regular
+    max: 1
+    width: 1/2
+    layout: cards
+    size: huge
+    image:
+      cover: true

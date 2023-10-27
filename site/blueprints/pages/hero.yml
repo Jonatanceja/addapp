@@ -1,0 +1,48 @@
+title: Hero
+columns:
+  left:
+    width: 1/2
+    sections:
+      picture:
+        type: fields
+        fields:
+          picture_avif:
+            type: files
+            label: Fotografia
+            max: 1
+            layout: cards
+            size: huge
+            image:
+              cover: true
+          picture_jpg:
+            type: files
+            label: Fotografia
+            max: 1
+            layout: cards
+            size: huge
+            image:
+              cover: true
+
+  right:
+    width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          heading: 
+            type: text
+            label: Encabezado
+          video:
+            type: files
+            label: Video
+          cover:
+            type: files
+            label: Portada de video
+            max: 1
+          cover2:
+            type: files
+            label: Portada de video
+            max: 1
+          text:
+            type: textarea
+            label: Texto

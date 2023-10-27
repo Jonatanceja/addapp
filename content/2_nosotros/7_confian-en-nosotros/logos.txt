@@ -1,0 +1,88 @@
+Title: Confían en Nosotros
+
+----
+
+Companies:
+
+- 
+  logo:
+    - file://fkqQtDDrH6q3fVvT
+  name: "2019"
+  text: |
+    ### Tecnología Implementada
+    Jedox Cloud​
+    
+    ### Solución tecnológica
+    Solución en Nube SAAS Solución en Nube Saas para determinación de rentabilidad por producto, ruta y cliente
+    
+    ### Foco de la consultoría
+    Sustitución de Hyperion Essbase Sustitución de Teradata a una plataforma ágil que permita el cierre oportuno calculando el Costo de Producir y el Costo de Servir
+- 
+  logo:
+    - file://J011oLOr3JdzqMmg
+  name: "2017"
+  text: |
+    ### Tecnología Implementada
+    Jedox Cloud​
+    
+    ### Solución tecnológica
+    Solución en Nube SAAS para +600 usuarios en 50 países​
+    
+    ### Foco de la consultoría
+    Sustitución de Hyperion Essbase a una plataforma de vanguardia que permita la flexibilidad y oportunidad ante cambios de las condiciones del mercado.​
+- 
+  logo:
+    - file://86d5nEu8etKxy8jY
+  name: "2017"
+  text: |
+    ### Tecnología Implementada
+    Tableau
+    
+    ### Solución tecnológica
+    Solución licenciamiento por core para 2000+ usuarios​
+    
+    ### Foco de la consultoría
+    Implementación global de solución analítica de autoservicio (self service) para todos los empleados del banco
+- 
+  logo:
+    - file://fkqQtDDrH6q3fVvT
+  name: "2019"
+  text: |
+    ### Tecnología Implementada
+    Jedox Cloud​
+    
+    ### Solución tecnológica
+    Solución en Nube SAAS Solución en Nube Saas para determinación de rentabilidad por producto, ruta y cliente
+    
+    ### Foco de la consultoría
+    Sustitución de Hyperion Essbase Sustitución de Teradata a una plataforma ágil que permita el cierre oportuno calculando el Costo de Producir y el Costo de Servir
+- 
+  logo:
+    - file://J011oLOr3JdzqMmg
+  name: "2017"
+  text: |
+    ### Tecnología Implementada
+    Jedox Cloud​
+    
+    ### Solución tecnológica
+    Solución en Nube SAAS para +600 usuarios en 50 países​
+    
+    ### Foco de la consultoría
+    Sustitución de Hyperion Essbase a una plataforma de vanguardia que permita la flexibilidad y oportunidad ante cambios de las condiciones del mercado.​
+- 
+  logo:
+    - file://86d5nEu8etKxy8jY
+  name: "2017"
+  text: |
+    ### Tecnología Implementada
+    Tableau
+    
+    ### Solución tecnológica
+    Solución licenciamiento por core para 2000+ usuarios​
+    
+    ### Foco de la consultoría
+    Implementación global de solución analítica de autoservicio (self service) para todos los empleados del banco
+
+----
+
+Uuid: knMVmwLUoqTx2nkk

@@ -1,0 +1,27 @@
+Title: Resultados
+
+----
+
+Heading: Basado en resultados
+
+----
+
+Text:
+
+## Basado en resultados
+---
+Utilizamos nuestra metodología especializada en solución de proyectos de Financial Planning & Analysis FP&A, la cual administra de forma eficiente todas las tareas por realizar, reduciendo posibles retrasos en el plan establecido.
+
+Por medio de tecnología Jedox implementamos soluciones con alto ROI que permitan ejecutar:
+
+----
+
+Button: 
+
+----
+
+Link: 
+
+----
+
+Uuid: Wn12dBhY6MptPh2R

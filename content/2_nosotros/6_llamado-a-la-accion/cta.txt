@@ -1,0 +1,32 @@
+Title: Llamado a la acción
+
+----
+
+Text:
+
+## Inteligencia artificial para ***Finanzas***
+Addapp BI es una empresa que tiene como objetivo ayudar a compañías líderes en México a aumentar su rentabilidad por medio de tecnología y servicios de consultoría de Financial Planning & Analysis. Permitiendo a estas, realizar optimizaciones en las áreas financieras y operativas alineando a los usuarios operativos a los objetivos estratégicos establecidos por la alta dirección.
+
+----
+
+Button: #
+
+----
+
+Picture-avif: - file://8pfALIgxGp1k7AeB
+
+----
+
+Picture-jpg: - file://MSMhCbEYMlQKwEuD
+
+----
+
+Background-avif: - file://IDL9LHIBvsUQmzXn
+
+----
+
+Background-jpg: - file://7uR8OmBBpqKTXd9N
+
+----
+
+Uuid: A7cwDhi702geBviC

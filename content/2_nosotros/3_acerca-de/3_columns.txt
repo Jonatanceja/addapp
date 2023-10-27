@@ -1,0 +1,28 @@
+Title: Acerca de
+
+----
+
+Blurbs:
+
+- 
+  heading: >
+    Experiencia Exitosa en Proyectos
+    Demandantes
+  text: 'Somos la única empresa de consultoría en México que tiene amplia y probada experiencia en **aplicaciones con Jedox** que demanden excelentes tiempos de respuesta, grandes volúmenes de información y desempeño del aplicativo acorde a las expectativas del usuario final, lo anterior es debido a que nuestro personal cuenta con experiencia sin igual en nuestro territorio.'
+- 
+  heading: Asesoramiento de Expertos
+  text: 'Nuestro negocio primordial es la Consultoría y Educación en tecnologías de FP&A. Por esta razón nos preocupamos en realidad por el éxito del cliente y mantenemos relaciones de alta satisfacción con toda nuestra base instalada.'
+- 
+  heading: Equipo de Profesionales
+  text: >
+    Todo nuestro personal está capacitado y
+    certificado en Jedox, razón por la cual
+    en los proyectos minimizamos la cantidad
+    de consultores, esto genera para
+    nuestros clientes sustanciales ahorros
+    en la comunicación y coordinación del
+    equipo de trabajo.
+
+----
+
+Uuid: kC8zv5q4bpuSZ32t

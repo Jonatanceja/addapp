@@ -1,0 +1,12 @@
+title: Texto en 3 columnas
+fields:
+  blurbs:
+    type: structure
+    label: Recuadros
+    fields:
+      heading:
+        type: text
+        label: Encabezado
+      text:
+        type: textarea
+        label: Texto

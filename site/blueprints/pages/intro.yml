@@ -1,0 +1,15 @@
+title: Introducción
+fields:
+  heading:
+    type: text
+    label: Encabezado
+  text:
+    type: textarea
+    label: Texto
+  button:
+    type: text
+    label: Texto del botón
+  link:
+    type: text
+    label: Enlace de botón
+  

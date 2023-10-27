@@ -1,0 +1,38 @@
+Title: Llamado a la acción
+
+----
+
+Text:
+
+## "El 70% de las empresas espera ***implementar la inteligencia artificial*** en los próximos 12 meses."
+>Predictions 2018: The Honeymoon For AI Is Over, Forrester
+
+Unete a todas estas empresas y comienza tu transición a la inteligencia artificial
+
+----
+
+Button: #
+
+----
+
+Picture-avif: - file://kSonlbZ7aASoaRM6
+
+----
+
+Picture-jpg: - file://rXDCSjpzlVSJDz2l
+
+----
+
+Background-avif: - file://mfMee3m0zD3IU3AG
+
+----
+
+Background-jpg: - file://QkjmbOIismbWtqsJ
+
+----
+
+Bg: 
+
+----
+
+Uuid: zx8i5bC6x6vT5SJ0

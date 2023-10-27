@@ -1,0 +1,38 @@
+Title: Especificaciones
+
+----
+
+Heading: Jedox AIssisted™
+
+----
+
+Specs:
+
+- 
+  icon:
+    - file://pIdcWnvitQFKcgWJ
+  text: Preparación de Datos
+- 
+  icon:
+    - file://flXVWaM5OaNnWAuK
+  text: Apoyo en toma de decisiones
+- 
+  icon:
+    - file://WyDhyZNAopVYxWmc
+  text: Pronóstico y Predicción
+- 
+  icon:
+    - file://XP1SJ2Um4ersoARG
+  text: Planificación Dinámica
+
+----
+
+Picture-avif: - file://uM6KDiM2Tlcd5pdJ
+
+----
+
+Picture-jpg: - file://sc78wGtRHGhIXD8z
+
+----
+
+Uuid: B3NI5YlqzQRRtX5p

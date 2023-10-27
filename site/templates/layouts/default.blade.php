@@ -8,10 +8,14 @@
     <title>{{ $site->title() }} | {{ $page->title() }}</title>
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
+    <link href="https://cdn.lineicons.com/4.0/lineicons.css" rel="stylesheet" />
+    @stack('styles')
 </head>
 
 <body>
+    @include('partials.header')
     @yield('content')
+    @stack('scripts')
 </body>
 
 </html>

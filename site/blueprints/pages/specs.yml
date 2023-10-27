@@ -1,0 +1,33 @@
+title: Especificaciones
+fields:
+  heading:
+    type: text
+    label: Encabezado
+  specs:
+    type: structure
+    label: Características
+    fields:
+      icon:
+        type: files
+        label: Icono
+      text:
+        type: text
+        label: Texto
+  picture_avif:
+    type: files
+    label: Fotografia comprimida
+    max: 1
+    width: 1/2
+    layout: cards
+    size: huge
+    image:
+      cover: true
+  picture_jpg:
+    type: files
+    label: Fotografia regular
+    max: 1
+    width: 1/2
+    layout: cards
+    size: huge
+    image:
+      cover: true

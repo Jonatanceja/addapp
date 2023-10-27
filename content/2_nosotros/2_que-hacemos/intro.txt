@@ -1,0 +1,28 @@
+Title: ¿Que hacemos?
+
+----
+
+Heading: ¿Qué hacemos?
+
+----
+
+Text:
+
+## ¿Qué hacemos?
+---
+
+Ante los cambios complejos de los factores de mercado que enfrentan las empresas, hoy más que nunca es necesaria una tecnología que permita reaccionar ente cualquier escenario.
+
+Por lo que, el área de planeación se ha vuelto clave para las diferentes empresas en donde se puedan dar resultados de forma inmediata, flexible y amigable.
+
+----
+
+Button: Ver soluciones
+
+----
+
+Link: #
+
+----
+
+Uuid: Jk43u9mKcBINLOwM

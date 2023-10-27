@@ -1,0 +1,20 @@
+title: Recuadros de información
+fields:
+  blurbs:
+    type: structure
+    label: Recuadros
+    fields:
+      icon:
+        type: files
+        max: 1
+        label: Icono
+      hover:
+        type: files
+        max: 1
+        label: Icono en Hover
+      heading:
+        type: text
+        label: Encabezado
+      text:
+        type: textarea
+        label: Texto

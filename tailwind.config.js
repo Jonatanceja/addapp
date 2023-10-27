@@ -4,13 +4,16 @@ module.exports = {
     extend: {}
   },
   variants: {
-    extend: {}
+    extend: {
+      backgroundImage: {
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
+      }
+    }
   },
   plugins: [
     require("@tailwindcss/forms"),
     require("@tailwindcss/typography"),
-    require("@tailwindcss/aspect-ratio"),
-    require("@tailwindcss/line-clamp")
+    require("@tailwindcss/aspect-ratio")
   ],
   content: [
     "site/templates/**/*.html",

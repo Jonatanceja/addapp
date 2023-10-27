@@ -1,0 +1,13 @@
+Title: Frase
+
+----
+
+Icon: - file://EFdZv9ReVFTfDcS9
+
+----
+
+Text: ##"Para el 2025, el 40% de las Iniciativas de ***Transformación Digital*** Contarán con Capacidades Cognitivas/IA."
+
+----
+
+Uuid: 9q1a94ufzHchW4YV
